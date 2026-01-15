@@ -41,3 +41,5 @@ This script handles that missing step correctly.
 ```bash
 git clone https://github.com/arnavhhokra/JudgeMe-Review-Product-Seeder.git
 cd judgeme-review-product-seeder.
+npm install
+node main.js

@@ -1,4 +1,4 @@
-const SHOP_DOMAIN = "little-pea-in.myshopify.com";
+const SHOP_DOMAIN = ""; 
 const API_TOKEN = "";  //PRIVATE API TOKEN
 const SHOPIFY_PRODUCT_ID = 1283682;
 const PLATFORM = "shopify";
